@@ -24,21 +24,6 @@
       "nombre": "Jugo de Fresa",
       "precio": "200",
       "id": 5
-    },
-    {
-      "nombre": "Rib Eye",
-      "precio": 800,
-      "id": 6
-    },
-    {
-      "nombre": "Jugo de pina",
-      "precio": 100,
-      "id": 7
-    },
-    {
-      "nombre": "Jugo de pina",
-      "precio": 100,
-      "id": 8
     }
   ]
 }
