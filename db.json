@@ -24,6 +24,11 @@
       "nombre": "Jugo de Fresa",
       "precio": "39.5",
       "id": 5
+    },
+    {
+      "nombre": "Cafe",
+      "precio": 25,
+      "id": 6
     }
   ]
 }

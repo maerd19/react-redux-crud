@@ -146,10 +146,7 @@ const obtenerProductoAction = (producto) => ({
 export function editarProductoAction(producto) {
   return async (dispatch) => {
     try {
-      const resultado = await clienteAxios.put(
-        `/productos/${producto.id}`,
-        producto
-      );
+      await clienteAxios.put(`/productos/${producto.id}`, producto);
       dispatch(editarProductoExito(producto));
     } catch (error) {
       console.log(error);
